@@ -1,4 +1,6 @@
-### Hi there 👋
+# About Me
+
+- I used to code a bunch years ago as a hobby, but I *lost interest*. I got interested in **Minecraft** modding recently, so I'm doing it again.
 
 <!--
 **Desolian/Desolian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
